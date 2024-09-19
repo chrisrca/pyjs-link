@@ -1,0 +1,13 @@
+{
+  "name": "pyjs-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run build && node index.js",
+    "build": "cmd /c python\\Build.cmd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
